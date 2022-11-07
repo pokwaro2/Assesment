@@ -1,0 +1,6 @@
+FirstName,LastName,DOB,MRN,Gender,Address1,Address2,City,State,ZipCode,MaritalStatus,PhoneNumber,AccountNumber,VisitNumber,NPI,AttendingDoctorName,VisitDate,DischargeDate,SendingFacility,SendingApplication,PatientClass,NP
+Charlie,Test,2/12/1981,G202220,M,123 Duck Street,,Orlando,FL,34562,M,(222)323-3333,A012022A,19191922,1234,Dr. Ken Waffle,10/22/2022,10/22/2022,Orlando Hospital,CERNER,O,
+Millie,Tester,10/4/1983,G109020,F,234 Donald Street,,New York,NY,22908,S,(345)234-5566,A022022A,39399910,3456,Dr. Max Brown,8/10/2022,8/12/2022,NYU,EPIC,I,
+Mary,Test,4/20/1987,F846889,F,243 Homeland Ave,,Orlando,FL,34524,W,(656)606-7667,A032022A,93000430,1234,Dr. Ken Waffle,9/23/2022,,Orlando Hospital,CERNER,U,
+Will,Smith,1/22/1978,T357736,M,764 Honda Street,,Miami,FL,29400,M,(234)609-7899,A042022A,69499669,5678,Dr. Brit Neyle,6/30/2022,6/30/2022,MIAMI,ATHENA,O,
+John,Tester,5/23/1982,S858855,M,6886 Peach Street,,New York,NY,22340,S,(850)949-0958,A052022A,48969992,3456,Dr. Max Brown,7/1/2022,,NYU,EPIC,U,
